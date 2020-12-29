@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Udemy_Modern_Food_Receipe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="receipes">Receipes</string>
+    <string name="favorites">Favorites</string>
+    <string name="joke">Joke</string>
 </resources>
